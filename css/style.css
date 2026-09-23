@@ -1083,3 +1083,7 @@ footer{
     }
 
 }
+.intro-text p,
+.principles-content p {
+    text-align: justify;
+}
